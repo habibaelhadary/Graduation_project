@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">chatbot</string>
+    <string name="noor">Noor</string>
+    <string name="write_anything">write anything</string>
+    <string name="todo">TODO</string>
+    <string name="hello">Hello</string>
+    <string name="i_m_noor">I\'m Noor</string>
+    <string name="get_start">Get start</string>
+    <string name="answer_your_question">I\'m here to answer your question</string>
+    <string name="Todo">TODO</string>
+</resources>
